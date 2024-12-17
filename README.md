@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Buoyy!
- I’m interested in gaming, making games and Minecraft.
- I’m currently a high school student in my 9th year of school.
- I’m looking to collaborate on, well, making games as my 3d modelling isn't very good.
-Also, I LOVE Java. It's simply my favourite language.
+ I’m a high school student, currently in year 11. I am passionate about computer science, especially graphics and game development. 
+
+I am a hardcore gamer and metalhead, which will usually explain my influences if you happen to stumble upon this page. 
 
 <!---
 Buoyy/Buoyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
